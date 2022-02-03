@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+RGPV</title>
+</head>
+<body bgcolor =skyblue><hr size=6 color=navy width=70%>
+
+<form action='resultlogin1.php' method='post'>
+<img src="RGPVLOGO.jpg" align= left width=100>
+<base font face="times new roman" size"4" color="orange">
+<font face="book antiqua" size=7 color =darkred>Rajiv Gandhi Prodyogiki Vishwavidyalaya</font><br>
+<center><font face ="monotype corsiva" size=6 color=orange><u><b><aspire and achieve</u></b></font></h1></center>
+<center>
+<br><hr size=6 color=red width=70%>
+<a href="resultlogin1.php"><b>www.rgpvResult.com</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="rgpvfacilities1.php"><b>www.rgpvfacilities.com</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="UCourseDelail.php"><b>www.rgpvCourseDelail.com</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="acad.html"><b>academic calender</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="pict.html"><b>picture gallary</b></a><hr size=6 color= "green" width=70%>
+</center>
+<img src="rgpvuniversity.jpg" width=600 length=300><br><font face ="monotype corsiva" size=10 color=darKred>
+</font><br>
+
+</body>
+</html>
